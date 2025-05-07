@@ -1,1 +1,1 @@
-
+In pyhton projects you can find 20 different files ranging in simple to advanced python coding. Some codes that are included are, golf stat tracker application, job search application, chat bot application, and more.
